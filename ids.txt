@@ -1,0 +1,170 @@
+ARB : Alara Reborn
+ALL : Alliances
+ATH : Anthologies
+ATQ : Antiquities
+APC : Apocalypse
+ARN : Arabian Nights
+ARC : Archenemy
+pARL : Arena League
+pALP : Asia Pacific Land Program
+AVR : Avacyn Restored
+BRB : Battle Royale Box Set
+BTD : Beatdown Box Set
+BOK : Betrayers of Kamigawa
+BNG : Born of the Gods
+pCEL : Celebration
+CHK : Champions of Kamigawa
+pCMP : Champs and States
+CHR : Chronicles
+6ED : Classic Sixth Edition
+CSP : Coldsnap
+CST : Coldsnap Theme Decks
+C13 : Commander 2013 Edition
+C14 : Commander 2014
+CM1 : Commander's Arsenal
+CON : Conflux
+DKA : Dark Ascension
+DST : Darksteel
+DKM : Deckmasters
+DIS : Dissension
+pDRC : Dragon Con
+DGM : Dragon's Maze
+DDH : Duel Decks: Ajani vs. Nicol Bolas
+DDC : Duel Decks: Divine vs. Demonic
+DDF : Duel Decks: Elspeth vs. Tezzeret
+EVG : Duel Decks: Elves vs. Goblins
+DDD : Duel Decks: Garruk vs. Liliana
+DDL : Duel Decks: Heroes vs. Monsters
+DDJ : Duel Decks: Izzet vs. Golgari
+DD2 : Duel Decks: Jace vs. Chandra
+DDM : Duel Decks: Jace vs. Vraska
+DDG : Duel Decks: Knights vs. Dragons
+DDE : Duel Decks: Phyrexia vs. the Coalition
+DDK : Duel Decks: Sorin vs. Tibalt
+DDN : Duel Decks: Speed vs. Cunning
+DDI : Duel Decks: Venser vs. Koth
+DPA : Duels of the Planeswalkers
+8ED : Eighth Edition
+8BS : Eighth Edition Box Set
+pELP : European Land Program
+EVE : Eventide
+EXO : Exodus
+FEM : Fallen Empires
+FRF : Fate Reforged
+5DN : Fifth Dawn
+5ED : Fifth Edition
+4ED : Fourth Edition
+pFNM : Friday Night Magic
+V14 : From the Vault: Annihilation (2014)
+DRB : From the Vault: Dragons
+V09 : From the Vault: Exiled
+V11 : From the Vault: Legends
+V12 : From the Vault: Realms
+V10 : From the Vault: Relics
+V13 : From the Vault: Twenty
+FUT : Future Sight
+GTC : Gatecrash
+pGPX : Grand Prix
+GPT : Guildpact
+pGRU : Guru
+pHHO : Happy Holidays
+HML : Homelands
+ICE : Ice Age
+ISD : Innistrad
+ITP : Introductory Two-Player Set
+INV : Invasion
+JOU : Journey into Nyx
+pJGP : Judge Gift Program
+JUD : Judgment
+KTK : Khans of Tarkir
+pLPA : Launch Parties
+pLGM : Legend Membership
+LEG : Legends
+LGN : Legions
+LEA : Limited Edition Alpha
+LEB : Limited Edition Beta
+LRW : Lorwyn
+M10 : Magic 2010
+M11 : Magic 2011
+M12 : Magic 2012
+M13 : Magic 2013
+M14 : Magic 2014 Core Set
+M15 : Magic 2015 Core Set
+pMGD : Magic Game Day
+pMPR : Magic Player Rewards
+CMD : Magic: The Gathering-Commander
+CNS : Magic: The Gathering—Conspiracy
+MED : Masters Edition
+ME2 : Masters Edition II
+ME3 : Masters Edition III
+ME4 : Masters Edition IV
+pMEI : Media Inserts
+MMQ : Mercadian Masques
+MIR : Mirage
+MRD : Mirrodin
+MBS : Mirrodin Besieged
+MD1 : Modern Event Deck 2014
+MMA : Modern Masters
+MOR : Morningtide
+MGB : Multiverse Gift Box
+NMS : Nemesis
+NPH : New Phyrexia
+9ED : Ninth Edition
+9BS : Ninth Edition Box Set
+ODY : Odyssey
+ONS : Onslaught
+PLC : Planar Chaos
+HOP : Planechase
+PC2 : Planechase 2012 Edition
+PLS : Planeshift
+POR : Portal
+pPOD : Portal Demo Game
+PO2 : Portal Second Age
+PTK : Portal Three Kingdoms
+PD2 : Premium Deck Series: Fire and Lightning
+PD3 : Premium Deck Series: Graveborn
+H09 : Premium Deck Series: Slivers
+pPRE : Prerelease Events
+PCY : Prophecy
+pPRO : Pro Tour
+RAV : Ravnica: City of Guilds
+pREL : Release Events
+RTR : Return to Ravnica
+3ED : Revised Edition
+ROE : Rise of the Eldrazi
+RQS : Rivals Quick Start Set
+SOK : Saviors of Kamigawa
+SOM : Scars of Mirrodin
+SCG : Scourge
+7ED : Seventh Edition
+SHM : Shadowmoor
+ALA : Shards of Alara
+S99 : Starter 1999
+S00 : Starter 2000
+STH : Stronghold
+pSUM : Summer of Magic
+pSUS : Super Series
+TMP : Tempest
+10E : Tenth Edition
+DRK : The Dark
+THS : Theros
+TSP : Time Spiral
+TSB : Time Spiral "Timeshifted"
+TOR : Torment
+p2HG : Two-Headed Giant Tournament
+UGL : Unglued
+UNH : Unhinged
+2ED : Unlimited Edition
+UDS : Urza's Destiny
+ULG : Urza's Legacy
+USG : Urza's Saga
+VAN : Vanguard
+VMA : Vintage Masters
+VIS : Visions
+WTH : Weatherlight
+pWOS : Wizards of the Coast Online Store
+pWCQ : World Magic Cup Qualifiers
+pWOR : Worlds
+WWK : Worldwake
+pWPN : WPN and Gateway
+ZEN : Zendikar
